@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+ul > li {
+	margin-right: 2em;
+	display: inline-block;
+}

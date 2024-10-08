@@ -1,0 +1,96 @@
+@charset "UTF-8";
+
+.container{
+	display: flex;
+	flex-wrap: wrap;
+	gap:10px;
+	padding: 10px;
+}
+
+.gra1 {
+	width:200px;
+	height:200px;
+	
+	background: 
+	linear-gradient(217deg,red,transparent 70%),
+	linear-gradient(127deg, lime, transparent 70%),
+	linear-gradient(336deg,blue,transparent 70%);
+}
+
+.gra2{
+	width:200px;
+	height:200px;
+	
+	background: 
+	linear-gradient(gold,tomato);
+
+}
+
+.gra3{
+	width:200px;
+	height:200px;
+	
+	background: 
+	linear-gradient(45deg,skyblue,slateblue);
+
+}
+
+.gra4{
+	width:200px;
+	height:200px;
+	
+	background: 
+	linear-gradient(90deg,deeppink,indigo);
+
+}
+.gra5{
+	width:200px;
+	height:200px;
+	
+	background: 
+	linear-gradient(90deg,deeppink,25%,indigo);
+
+}
+.gra6{
+	width:200px;
+	height:200px;
+	
+	background: 
+	linear-gradient(90deg,deeppink,75%,indigo);
+
+}
+
+.gra7{
+	width:200px;
+	height:200px;
+	
+	background: 
+	linear-gradient(red,white,blue);
+
+}
+
+.gra8{
+	width:200px;
+	height:200px;
+	
+	background: 
+	linear-gradient(red 0%,white 40%,blue 100%);
+
+}
+
+.gra9{
+	width:200px;
+	height:200px;
+	
+	background: 
+	linear-gradient(red 20%,white 33%,blue 80%);
+
+}
+.container > .flag{
+	width:200px;
+	height:200px;
+	
+	background: 
+	linear-gradient(red 33%,white 33%,white 67%,blue 67%);
+	
+}

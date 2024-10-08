@@ -1,0 +1,8 @@
+@charset "UTF-8";
+p{
+	text-indent:20px;
+	text-align:left;
+	letter-spacing:0;
+	word-spacing: 0;
+	line-height: 1.5em;
+}
